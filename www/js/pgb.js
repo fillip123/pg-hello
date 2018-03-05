@@ -20,3 +20,9 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function aboutMe() {
+
+info2 = 'Filip Jasiak';
+navigator.notification.alert(info2);
+}
